@@ -95,6 +95,7 @@ Each face is outlined with a box, and their dominant emotion is labeled in real 
 multi-face-emotion-detector/
 ├── multiple_live_face_detect.py             # Main application script
 ├── haar_face.xml       # Haar cascade for face detection
+├── haarcascade_smile.xml
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project documentation
 ```
